@@ -3,9 +3,9 @@ package org.test;
 public class Sample {
 	
 	public static void main(String[] args) {
-		System.out.println("dghwkhw");
-		System.out.println("dghwkhw1");
-		System.out.println("dghwkhw2");
+		System.out.println("ghjfhweifuj");
+		System.out.println("4526764gyfuy1");
+		System.out.println("hsidjgfiugds45677u");
 
 }
 }
